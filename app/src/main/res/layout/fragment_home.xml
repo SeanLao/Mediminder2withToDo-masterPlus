@@ -34,5 +34,14 @@
             android:textSize="50sp"
             android:textStyle="bold" />
 
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="106dp"
+            android:layout_height="104dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="80dp"
+            android:src="@drawable/medic" />
+
     </RelativeLayout>
 </FrameLayout>
